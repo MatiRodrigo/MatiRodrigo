@@ -43,7 +43,9 @@
 ### 🪪 **Tarjeta de Presentación - Ingeniero en Ciberseguridad**
 > Primer trabajo practico de mi carrera
 
-[![Demo](https://img.shields.io/badge/Demo-Ver_Tarjeta-00C7B7?style=for-the-badge)](https://matirodrigo.github.io/tarjeta-de-presentacion-Ingeniero-en-Ciberseguridad/)
+[![Web](https://img.shields.io/badge/Web-Visitar_Sitio-FF6B6B?style=for-the-badge)](https://matirodrigo.github.io/tarjeta-de-presentacion-Ingeniero-en-Ciberseguridad/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge)](https://github.com/MatiRodrigo/tarjeta-de-presentacion-Ingeniero-en-Ciberseguridad)
+
 
 ---
 
