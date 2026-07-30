@@ -29,33 +29,26 @@
 - 🎨 Diseño minimalista
 - ⌨️ Controles intuitivos
 
-[![Demo](https://img.shields.io/badge/Demo-Jugar_Ahora-brightgreen?style=for-the-badge)](https://tudominio.com/snake)
-[![Código](https://img.shields.io/badge/Código-Ver_Repositorio-blue?style=for-the-badge)](https://github.com/tuusuario/snake-game)
-
 ---
 
 ### 🃏 **CyberShield Academy** *(Plataforma Educativa)*
-> Aprende ciberseguridad de forma práctica y divertida.
+> Desarrollo frontend poniendo en practica los fundamentos aprendidos en mi carrera
 
 🔒 **Temáticas:**
 - 🛡️ Fundamentos de seguridad informática
 - 💻 Ethical Hacking para principiantes
 - 🔐 Buenas prácticas de protección digital
 
-[![Web](https://img.shields.io/badge/Web-Visitar_Sitio-FF6B6B?style=for-the-badge)](https://cybershieldacademy.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge)](https://github.com/tuusuario/cybershield-academy)
+[![Web](https://img.shields.io/badge/Web-Visitar_Sitio-FF6B6B?style=for-the-badge)](https://matirodrigo.github.io/CyberShieldAcademy/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge)](https://github.com/MatiRodrigo/CyberShieldAcademyy)
 
 ---
 
-### 🪪 **Tarjeta de Presentación Digital**
-> Mi carta de presentación en formato interactivo.
+### 🪪 **Tarjeta de Presentación - Ingeniero en Ciberseguridad**
+> Primer trabajo practico de mi carrera
 
-✨ **Características:**
-- Diseño responsivo y moderno
-- Animaciones sutiles con CSS
-- Enlaces a mis redes y proyectos
 
-[![Demo](https://img.shields.io/badge/Demo-Ver_Tarjeta-00C7B7?style=for-the-badge)](https://tudominio.com/tarjeta)
+[![Demo](https://img.shields.io/badge/Demo-Ver_Tarjeta-00C7B7?style=for-the-badge)](https://matirodrigo.github.io/tarjeta-de-presentacion-Ingeniero-en-Ciberseguridad/)
 
 ---
 
@@ -73,15 +66,15 @@
 ## 📊 Mis Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=gruvbox&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiRodrigo&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiRodrigo&layout=compact&theme=gruvbox&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 📫 Conéctate Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-rodrigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-rodrigo)
 
 
 ---
