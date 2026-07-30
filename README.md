@@ -23,6 +23,9 @@
 - 🎨 Diseño minimalista
 - ⌨️ Controles intuitivos
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge)](https://github.com/MatiRodrigo/MinimalSnake)
+[![Descargar](https://img.shields.io/badge/Windows-Descargar-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MatiRodrigo/MinimalSnake/releases/tag/Game)
+
 ---
 
 ### 🃏 **CyberShield Academy** *(Plataforma Educativa)*
