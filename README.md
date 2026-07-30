@@ -2,7 +2,6 @@
 # 👋 Hola, soy Matías Rodrigo 
 ### *Estudiante de la tecnicatura superior en ciberseguridad*
 ---
-<img width="2000" height="600" alt="Matias Rodrigo LinkedIn Banner" src="https://github.com/user-attachments/assets/3b8deabe-a3b2-4297-aefc-46e9e0018dd2" />
 
 
 ## 🕹️ Mis Proyectos Destacados
