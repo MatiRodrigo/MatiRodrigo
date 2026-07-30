@@ -40,7 +40,7 @@
 - 🔐 Buenas prácticas de protección digital
 
 [![Web](https://img.shields.io/badge/Web-Visitar_Sitio-FF6B6B?style=for-the-badge)](https://matirodrigo.github.io/CyberShieldAcademy/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge)](https://github.com/MatiRodrigo/CyberShieldAcademyy)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge)](https://github.com/MatiRodrigo/CyberShieldAcademy)
 
 ---
 
