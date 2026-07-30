@@ -54,22 +54,10 @@
 | **Herramientas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 | **Motores de juego** | ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) |
 
----
-
-## 📊 Mis Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiRodrigo&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiRodrigo&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&cache_seconds=1800" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiRodrigo&theme=gruvbox&hide_border=true" width="60%" />
-</p>
 
 ---
 
-## 📫 Conéctate Conmigo
+## 📫 Conectate Conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-rodrigo)
 
