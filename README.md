@@ -15,7 +15,7 @@
 
 ---
 
-### 🐍 **Snake Classic** 
+### 🐍 **MinimalSnake** 
 > El clásico juego de la serpiente, *Fue mi primer desarrollo*.
 
 🎮 **Características:**
