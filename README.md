@@ -62,8 +62,8 @@
 ## 📊 Mis Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiRodrigo&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiRodrigo&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/MatiRodrigo&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[MatiRodrigo](https://github.com/MatiRodrigo)&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 ---
