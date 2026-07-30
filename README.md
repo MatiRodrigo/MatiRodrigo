@@ -2,9 +2,8 @@
 ### *Estudiante de la tecnicatura superior en ciberseguridad*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7C94B&center=true&vCenter=true&width=500&lines=+Desarrollador+de+FMV+Games;+Creando+experiencias+paranormales;++La+realidad+es+mi+motor+gráfico" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7C94B&center=true&vCenter=true&width=500&lines=Estudiante+de+Ciberseguridad;Desarrollador+de+FMV+Games;Creando+experiencias+paranormales;La+realidad+es+mi+motor+gráfico" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 🕹️ Mis Proyectos Destacados
@@ -59,8 +58,7 @@
 | **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Herramientas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-| **Motores de juego** | ![Godot] ![Unity]
-
+| **Motores de juego** | ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) |
 ---
 
 ## 📊 Mis Estadísticas
