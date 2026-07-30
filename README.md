@@ -2,7 +2,8 @@
 ### *Estudiante de la tecnicatura superior en ciberseguridad*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7C94B&center=true&vCenter=true&width=500&lines=Estudiante+de+Ciberseguridad;Desarrollador+de+FMV+Games;Creando+experiencias+paranormales;La+realidad+es+mi+motor+gráfico" alt="Typing SVG" />
+ <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/8095c278-6f81-43ad-92f6-126e392883f7" />
+
 </p>
 ---
 
