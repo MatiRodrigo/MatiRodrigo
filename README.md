@@ -1,11 +1,7 @@
 #  👋 Hola, soy Matías Rodrigo 
 ### *Estudiante de la tecnicatura superior en ciberseguridad*
 
-<p align="center">
- <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/8095c278-6f81-43ad-92f6-126e392883f7" />
 
-</p>
----
 
 ## 🕹️ Mis Proyectos Destacados
 
