@@ -24,9 +24,7 @@
 - ⌨️ Controles intuitivos
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge)](https://github.com/MatiRodrigo/MinimalSnake)
-[![Descargar](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge
-https://img.shields.io/badge/Descargar-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+[![Descargar](https://img.shields.io/badge/Descargar-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MatiRodrigo/MinimalSnake/releases/tag/MinimalSnake-Windows-Linux)
 ---
 
 ### 🃏 **CyberShield Academy** *(Plataforma Educativa)*
