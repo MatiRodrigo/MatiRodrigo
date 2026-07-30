@@ -6,9 +6,9 @@
 ### 🍕 **Pedido Paranormal** *(FMV - Próximamente)*
 > *"Un repartidor de pizza. Un pedido misterioso. Una experiencia que no olvidarás."*
 
-🎬 **Género:** Full Motion Video 
-🖱️ **Mecánica:** Toma decisiones con el mouse que afectan el desenlace  
-📹 **Estilo:** 100% grabado con actores reales, escenarios reales
+-🎬 **Género:** Full Motion Video 
+-🖱️ **Mecánica:** Toma decisiones con el mouse que afectan el desenlace  
+-📹 **Estilo:** 100% grabado con actores reales, escenarios reales
 
 [![Estado](https://img.shields.io/badge/Estado-En_Desarrollo-yellow?style=for-the-badge)]()
 [![Género](https://img.shields.io/badge/Género-FMV-purple?style=for-the-badge)]()
